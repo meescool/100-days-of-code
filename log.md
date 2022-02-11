@@ -2,13 +2,17 @@
 
 ### Day 0: February 10th, 2022
 
-**Today's Progress**: Answered a leetcode fizzbuzz problem using c++.
+**Today's Progress**: Answered a couple of leetcode problems using c++.
 
 **Thoughts:** 
+- FizzBuzz:
 I initially was really frustrated since I knew how to answer the problem, I just needed to figure out the correct syntax. It took a lot out of me to not switch to a different language, but I pushed myself to finish the exercise in c++
+- Teemo Attacking: This problem was actually not too hard, what took me the most time was to actually understand the problem in the first place. Once I had a clear idea of what solution was needed, it was easier to figure out what to do next.
 
 **Link to work:** 
 https://github.com/meescool/leetcode/blob/main/problems/fizzBuzz.md
+https://github.com/meescool/leetcode/blob/main/problems/teemoAttacking.md
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
