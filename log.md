@@ -13,7 +13,7 @@ I initially was really frustrated since I knew how to answer the problem, I just
 - https://github.com/meescool/leetcode/blob/main/problems/fizzBuzz.md
 - https://github.com/meescool/leetcode/blob/main/problems/teemoAttacking.md
 
-### Day 1: February 10th, 2022
+### Day 1: February 11th, 2022
 
 **Today's Progress**: Answered a couple of leetcode problems using c++, have a better understanding of the binary search :D .
 
