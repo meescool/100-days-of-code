@@ -6,30 +6,22 @@
 
 **Thoughts:** 
 - FizzBuzz:
-I initially was really frustrated since I knew how to answer the problem, I just needed to figure out the correct syntax. It took a lot out of me to not switch to a different language, but I pushed myself to finish the exercise in c++
+I initially was really frustrated since I knew how to answer the problem, I just needed to figure out the correct syntax. It took a lot out of me to not switch to a different language, but I pushed myself to finish the exercise in c++.
 - Teemo Attacking: This problem was actually not too hard, what took me the most time was to actually understand the problem in the first place. Once I had a clear idea of what solution was needed, it was easier to figure out what to do next.
 
-**Link to work:** 
+**Link(s) to work:** 
 - https://github.com/meescool/leetcode/blob/main/problems/fizzBuzz.md
 - https://github.com/meescool/leetcode/blob/main/problems/teemoAttacking.md
 
-<!-- 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: February 10th, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Answered a couple of leetcode problems using c++, have a better understanding of the binary search :D .
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
+- Guess Number Higher or Lower: I new that using a binary search would be very helpful, I spent a while trying to figure out how to implement it in code and forced myself to not look up an example. Which I was able to do! I mean the code is a bit more lengthy compared to the solution, but I'm happy I was able to at least implement a version of the algorithm.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+- First Bad Version: I felt a lot more confident coming into this problem, and had an idea of how to better implement the binary search. It took a bit for my head to wrap around the problem, it wasn't until I sat back and actually spoke and visualized the process, was I able to find what errors I was making.
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link(s) to work:** 
+- https://github.com/meescool/leetcode/blob/main/problems/guessNumberHigherOrLower.md
+- https://github.com/meescool/leetcode/blob/main/problems/firstBadVersion.md
