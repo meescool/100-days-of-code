@@ -13,7 +13,7 @@ I initially was really frustrated since I knew how to answer the problem, I just
 - https://github.com/meescool/leetcode/blob/main/problems/fizzBuzz.md
 - https://github.com/meescool/leetcode/blob/main/problems/teemoAttacking.md
 
-### Day 1: February 11th, 2022
+### Day 2: February 11th, 2022
 
 **Today's Progress**: Answered a couple of leetcode problems using c++, have a better understanding of the binary search :D .
 
@@ -25,3 +25,12 @@ I initially was really frustrated since I knew how to answer the problem, I just
 **Link(s) to work:** 
 - https://github.com/meescool/leetcode/blob/main/problems/guessNumberHigherOrLower.md
 - https://github.com/meescool/leetcode/blob/main/problems/firstBadVersion.md
+
+### Day 3: February 12th, 2022
+
+**Today's Progress**: Worked on a snake game project using OpenGL.
+
+**Thoughts:** 
+-Snake Game: I mostly worked on setting up the shader program, VBO, VAO and EBO classes, which I am slowly getting accustomed to. There seems to be some issues with my code, and will need to go back and figure out why the vertex shader and fragment shader aren't compiling.
+**Link(s) to work:** 
+- https://github.com/meescool/SnakeGame
