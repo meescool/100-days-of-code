@@ -35,3 +35,14 @@ I initially was really frustrated since I knew how to answer the problem, I just
 
 **Link(s) to work:** 
 - https://github.com/meescool/SnakeGame
+
+### Day 5:February 14th, 2022
+
+**Today's Progress**: Worked on a snake game project using OpenGL.
+- Snake Game: I was able to fix a couple of issues with compiling the shaders :D I just had add another call to linking attributes from the VAO in order to take into consideration the color component of the triangles, and I had a missing semicolon with the fragment shader.
+- Add Two Numbers: I worked on a leetcode problem for a couple of hours. It's related to recursion, and at first it seemed pretty straight forward, but I need to take a closer look to creating linked lists in C++ in order to be able to solve it. 
+
+**Link(s) to work:**
+- https://github.com/meescool/SnakeGame
+- https://github.com/meescool/leetcode/blob/main/problems/addTwoNumbers.md
+
