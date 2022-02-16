@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log
+#### # of missed days to make up for:  1 
 
 ### Day 0: February 10th, 2022
 
@@ -38,9 +39,19 @@ I initially was really frustrated since I knew how to answer the problem, I just
 
 ### Day 5:February 14th, 2022
 
-**Today's Progress**: Worked on a snake game project using OpenGL.
+**Today's Progress**: Worked on a snake game project using OpenGL and a leetcode problem.
 - Snake Game: I was able to fix a couple of issues with compiling the shaders :D I just had add another call to linking attributes from the VAO in order to take into consideration the color component of the triangles, and I had a missing semicolon with the fragment shader.
 - Add Two Numbers: I worked on a leetcode problem for a couple of hours. It's related to recursion, and at first it seemed pretty straight forward, but I need to take a closer look to creating linked lists in C++ in order to be able to solve it. 
+
+**Link(s) to work:**
+- https://github.com/meescool/SnakeGame
+- https://github.com/meescool/leetcode/blob/main/problems/addTwoNumbers.md
+
+### Day 6:February 15th, 2022
+
+**Today's Progress**: Worked on a snake game project using OpenGL and a leetcode problem, again.
+- Snake Game: So for today, I just focused on refactoring some of the code of the project, more specifically the reading from files. I added a function to read the glsl shaders, I had some issues which actually turned out to be a typo from writing the extension of the vertex shader. Had `.vect` instead of `.vert`
+- Add Two Numbers: I thought I could finish this today, but alas, I did not. I was able to make a lot more progress compared to yesterday, which I am pretty proud of. I have a better understanding of linked lists in C++ now. They are a bit tedious to deal with :').
 
 **Link(s) to work:**
 - https://github.com/meescool/SnakeGame
