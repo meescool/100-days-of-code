@@ -57,3 +57,13 @@ I initially was really frustrated since I knew how to answer the problem, I just
 - https://github.com/meescool/SnakeGame
 - https://github.com/meescool/leetcode/blob/main/problems/addTwoNumbers.md
 
+### Day 7:February 16th, 2022
+
+**Today's Progress**: Solved a leetcode problem and worked on adding moving to my snake game.
+- Snake Game: I was able to add a function to process the user input to control the movement of the snake. It starts moving automatically, and the program exits once the snake reaches one of the screen edges.
+- Add Two Numbers: I was able to finish this problem using recursion, and by finding a way to indicate the program when there is an extra 1 to be added to the next node.
+
+**Link(s) to work:**
+- https://github.com/meescool/SnakeGame
+- https://github.com/meescool/leetcode/blob/main/problems/addTwoNumbers.md
+
