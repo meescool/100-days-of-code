@@ -75,7 +75,7 @@ I initially was really frustrated since I knew how to answer the problem, I just
 **Link(s) to work:**
 - https://github.com/stormcrow3/pearlhacks2022project
 
-### Day 9:February 18th, 2022
+### Day 9:February 19th, 2022
 
 **Today's Progress**: Second day at Hackathon with Pearl Hacks.
 - Making a tetris like drawing game: Made final changes with the project, in order to have a good prototype for presenting the final project. Implemented a couple of ideas, which were then tweaked by my team member in order to get a more smoother game play. Was pretty satisfied with the final project result.
