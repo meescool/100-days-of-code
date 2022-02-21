@@ -67,3 +67,19 @@ I initially was really frustrated since I knew how to answer the problem, I just
 - https://github.com/meescool/SnakeGame
 - https://github.com/meescool/leetcode/blob/main/problems/addTwoNumbers.md
 
+### Day 8:February 18th, 2022
+
+**Today's Progress**: First day at Hackathon with Pearl Hacks.
+- Making a tetris like game: Downloaded Godot, and struggled with setting up the correct compiler for the engine. I was able to get it fixed after a couple of hours. I started the main project and created some block objects to be used in the game. Learned a lot about C# in Godot.
+
+**Link(s) to work:**
+- https://github.com/stormcrow3/pearlhacks2022project
+
+### Day 9:February 18th, 2022
+
+**Today's Progress**: Second day at Hackathon with Pearl Hacks.
+- Making a tetris like drawing game: Made final changes with the project, in order to have a good prototype for presenting the final project. Implemented a couple of ideas, which were then tweaked by my team member in order to get a more smoother game play. Was pretty satisfied with the final project result.
+
+**Link(s) to work:**
+- https://github.com/stormcrow3/pearlhacks2022project
+
