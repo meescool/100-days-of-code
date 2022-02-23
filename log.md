@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-#### # of missed days to make up for:  3 
+#### # of missed days to make up for: 4
 
 ### Day 0: February 10th, 2022
 
@@ -82,4 +82,13 @@ I initially was really frustrated since I knew how to answer the problem, I just
 
 **Link(s) to work:**
 - https://github.com/stormcrow3/pearlhacks2022project
+
+### Day 10:February 21th, 2022
+
+**Today's Progress**: Worked on my Snake Game, added collision with apple mechanism.
+-Snake Game with OpenGL: I was able to figure out a way to check for collisions between the snake head and the apple. It's not perfect, and still has some issues, but it's a good start! With this I can move forward with figuring out how to render the growth of the snake.
+
+**Link(s) to work:**
+- https://github.com/meescool/SnakeGame
+
 
