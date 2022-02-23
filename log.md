@@ -91,4 +91,11 @@ I initially was really frustrated since I knew how to answer the problem, I just
 **Link(s) to work:**
 - https://github.com/meescool/SnakeGame
 
+### Day 11:February 22th, 2022
+
+**Today's Progress**: Worked on my Snake Game, added texturing for the apple.
+-Snake Game with OpenGL: Today I just worked on adding the texture for the apple, there are some issues with the background not being transparent so I'll have to go back and fix the issue. I am thinking of making it it's own class, in order to facilitate the texture for the snake and maybe a bacground texture too.
+
+**Link(s) to work:**
+- https://github.com/meescool/SnakeGame
 
