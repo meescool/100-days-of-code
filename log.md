@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-#### # of missed days to make up for: 4
+#### # of missed days to make up for: 5
 
 ### Day 0: February 10th, 2022
 
@@ -95,6 +95,14 @@ I initially was really frustrated since I knew how to answer the problem, I just
 
 **Today's Progress**: Worked on my Snake Game, added texturing for the apple.
 -Snake Game with OpenGL: Today I just worked on adding the texture for the apple, there are some issues with the background not being transparent so I'll have to go back and fix the issue. I am thinking of making it it's own class, in order to facilitate the texture for the snake and maybe a bacground texture too.
+
+**Link(s) to work:**
+- https://github.com/meescool/SnakeGame
+
+### Day 12:February 23th, 2022
+
+**Today's Progress**: Worked on my Snake Game, added a texture class.
+-Snake Game with OpenGL: I decided it would be best to make a class just for textures. So I refactored my code to do that :) 
 
 **Link(s) to work:**
 - https://github.com/meescool/SnakeGame
