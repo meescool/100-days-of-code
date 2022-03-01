@@ -86,7 +86,7 @@ I initially was really frustrated since I knew how to answer the problem, I just
 ### Day 10:February 21th, 2022
 
 **Today's Progress**: Worked on my Snake Game, added collision with apple mechanism.
--Snake Game with OpenGL: I was able to figure out a way to check for collisions between the snake head and the apple. It's not perfect, and still has some issues, but it's a good start! With this I can move forward with figuring out how to render the growth of the snake.
+- Snake Game with OpenGL: I was able to figure out a way to check for collisions between the snake head and the apple. It's not perfect, and still has some issues, but it's a good start! With this I can move forward with figuring out how to render the growth of the snake.
 
 **Link(s) to work:**
 - https://github.com/meescool/SnakeGame
@@ -94,7 +94,7 @@ I initially was really frustrated since I knew how to answer the problem, I just
 ### Day 11:February 22th, 2022
 
 **Today's Progress**: Worked on my Snake Game, added texturing for the apple.
--Snake Game with OpenGL: Today I just worked on adding the texture for the apple, there are some issues with the background not being transparent so I'll have to go back and fix the issue. I am thinking of making it it's own class, in order to facilitate the texture for the snake and maybe a bacground texture too.
+- Snake Game with OpenGL: Today I just worked on adding the texture for the apple, there are some issues with the background not being transparent so I'll have to go back and fix the issue. I am thinking of making it it's own class, in order to facilitate the texture for the snake and maybe a bacground texture too.
 
 **Link(s) to work:**
 - https://github.com/meescool/SnakeGame
@@ -102,7 +102,7 @@ I initially was really frustrated since I knew how to answer the problem, I just
 ### Day 12:February 23th, 2022
 
 **Today's Progress**: Worked on my Snake Game, added a texture class.
--Snake Game with OpenGL: I decided it would be best to make a class just for textures. So I refactored my code to do that :) 
+- Snake Game with OpenGL: I decided it would be best to make a class just for textures. So I refactored my code to do that :) 
 
 **Link(s) to work:**
 - https://github.com/meescool/SnakeGame
@@ -111,7 +111,7 @@ I initially was really frustrated since I knew how to answer the problem, I just
 ### Day 13:February 28th, 2022
 
 **Today's Progress**: Worked on my Tic Tac Toe PG project.
--Tic Tac Toe PG: I decided to take a small break from my Snake game and decided to work on my Tic Tac Toe game, that also includes a GUI using the Pygame module from python. It took me a while to get reaquainted with the code. Thankfully I was actually able to make some significant process by adding the ability to for the player to add their marks and the CPU adds marks randomly.
+- Tic Tac Toe PG: I decided to take a small break from my Snake game and decided to work on my Tic Tac Toe game, that also includes a GUI using the Pygame module from python. It took me a while to get reaquainted with the code. Thankfully I was actually able to make some significant process by adding the ability to for the player to add their marks and the CPU adds marks randomly.
 
 **Link(s) to work:**
 - https://github.com/meescool/ticTacToePG
