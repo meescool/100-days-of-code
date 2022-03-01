@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-#### # of missed days to make up for: 5
+#### # of missed days to make up for: 8
 
 ### Day 0: February 10th, 2022
 
@@ -106,4 +106,13 @@ I initially was really frustrated since I knew how to answer the problem, I just
 
 **Link(s) to work:**
 - https://github.com/meescool/SnakeGame
+
+
+### Day 13:February 28th, 2022
+
+**Today's Progress**: Worked on my Tic Tac Toe PG project.
+-Tic Tac Toe PG: I decided to take a small break from my Snake game and decided to work on my Tic Tac Toe game, that also includes a GUI using the Pygame module from python. It took me a while to get reaquainted with the code. Thankfully I was actually able to make some significant process by adding the ability to for the player to add their marks and the CPU adds marks randomly.
+
+**Link(s) to work:**
+- https://github.com/meescool/ticTacToePG
 
