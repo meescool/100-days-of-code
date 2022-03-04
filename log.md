@@ -116,3 +116,30 @@ I initially was really frustrated since I knew how to answer the problem, I just
 **Link(s) to work:**
 - https://github.com/meescool/ticTacToePG
 
+### Day 14: March 1st, 2022
+
+**Today's Progress**: Worked on my Tic Tac Toe PG project.
+- Tic Tac Toe PG: Today I worked on mostly finding ways to display the right marks on the grid, and having the program wait a couple seconds before putting down the cpu's mark in order to simulate as if it were thinking. I have put off this project for a while, and since I have done some studying and practicing during that time, I found it a lot easier to dive in :)
+
+**Link(s) to work:**
+- https://github.com/meescool/ticTacToePG
+
+### Day 15: March 2nd, 2022
+
+**Today's Progress**: Worked on my Tic Tac Toe PG project.
+- Tic Tac Toe PG: Today I implemented a checking function for my tic tac toe game. It checks if the user or cpu has three marks in a row or in a column. It shows a `You Won!` or `You Lost` or `Draw!` message on a separate screen. I was quite happy that the answer I implemented didn't take me as long as I thought it would since I went over some of the algorthims as a possible answer.
+
+**Link(s) to work:**
+- https://github.com/meescool/ticTacToePG
+
+### Day 16: March 2nd, 2022
+
+**Today's Progress**: Worked on my Tic Tac Toe PG project.
+- Tic Tac Toe PG: Today I added the diagonal checking to my check answer function, thus fixing the issue where it only counted as a win if rows or columns had three marks. It was not as hard as I thought it would've been to implement it, though of course I would still like to see if it can be improved further
+
+**Link(s) to work:**
+- https://github.com/meescool/ticTacToePG
+
+
+
+
