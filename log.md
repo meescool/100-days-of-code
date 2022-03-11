@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-#### # of missed days to make up for: 8
+#### # of missed days to make up for: 12 ... so technically 112 days of code 😜
 
 ### Day 0: February 10th, 2022
 
