@@ -140,6 +140,36 @@ I initially was really frustrated since I knew how to answer the problem, I just
 **Link(s) to work:**
 - https://github.com/meescool/ticTacToePG
 
+### Day 17: March 5th, 2022
+
+**Today's Progress**: I attended the cmd=f 2022 Hackathon and started my Easel Share project.
+- Easel Share: I came up with the idea of creating an online learning platform for artists! I was able to get a basic design and website prototype started.
+
+**Link(s) to work:**
+- https://github.com/meescool/easel-share
+
+### Day 18: March 6th, 2022
+
+**Today's Progress**: I attended the cmd=f 2022 Hackathon and worked on my Easel Share project.
+- Easel Share: I worked some more on my prototype and was able to get the canvas to work at a decent degree. It is still very rough, but I do look forward to working  more on it. I think I will need to focus on finishing the design and planning out the website better. As for code, I will definitely spend a lot of time perfecting the canvas element :)
+
+**Link(s) to work:**
+- https://github.com/meescool/easel-share
+
+### Day 19: March 8th, 2022
+
+**Today's Progress**: Added my demo reel to my website.
+- My website: For the past couple of days I was working on creating my demo reel, I then worked on adding it to my website in the blog section.
+
+**Link(s) to work:**
+- https://github.com/meescool/myWebsite
 
 
+### Day 20: March 9th, 2022
+
+**Today's Progress**: Updated my website.
+- My website: I decided to add its own little section for the demo reel and worked on updating and modifying the website. I'm really excited about how it's all tying up together, and I'm starting to see how my skills are starting to come together :D
+
+**Link(s) to work:**
+- https://github.com/meescool/myWebsite
 
