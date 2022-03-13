@@ -173,3 +173,12 @@ I initially was really frustrated since I knew how to answer the problem, I just
 **Link(s) to work:**
 - https://github.com/meescool/myWebsite
 
+### Day 21: March 11th, 2022
+
+**Today's Progress**: Update my Tic Tac Toe PG game and start a new opengl project
+- Tic Tac Toe PG: Added two more sprites that the player can choose to play as in the game. I also modified the code so that it will go through the extra options, will need to make some changes in the future so that I don't have to modify the code and it that updates automatically.
+- Flashing Colors Cubes: Started an opengl project to practice with 3D graphice programming. Used my previous project flashingColorsGrid as a boiler template since it already has the shader and buffer classes defined.
+
+**Link(s) to work:**
+- https://github.com/meescool/ticTacToePG
+- https://github.com/meescool/flashingColorsCubes
